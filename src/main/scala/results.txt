@@ -1,0 +1,37 @@
+Warmed up for 180000.17295 ms
+Testing inner joins on Arrays of 100 elements
+Run Lms for 0,01 ms
+Run Dir for 0,01 ms
+Testing outer joins on Arrays of 100 elements
+Run Lms for 0,93 ms
+Run Dir for 0,26 ms
+Testing inner joins on Arrays of 1000 elements
+Run Lms for 0,07 ms
+Run Dir for 0,04 ms
+Testing outer joins on Arrays of 1000 elements
+Run Lms for 1,32 ms
+Run Dir for 0,62 ms
+Testing inner joins on Arrays of 10000 elements
+Run Lms for 0,76 ms
+Run Dir for 0,46 ms
+Testing outer joins on Arrays of 10000 elements
+Run Lms for 9,18 ms
+Run Dir for 5,00 ms
+Testing inner joins on Arrays of 100000 elements
+Run Lms for 8,64 ms
+Run Dir for 9,57 ms
+Testing outer joins on Arrays of 100000 elements
+Run Lms for 12,16 ms
+Run Dir for 41,14 ms
+Testing inner joins on Arrays of 1000000 elements
+Run Lms for 424,41 ms
+Run Dir for 51,27 ms
+Testing outer joins on Arrays of 1000000 elements
+Run Lms for 303,84 ms
+Run Dir for 53,76 ms
+Testing inner joins on Arrays of 10000000 elements
+Run Lms for 14565,01 ms
+Run Dir for 2173,14 ms
+Testing outer joins on Arrays of 10000000 elements
+Run Lms for 14435,94 ms
+Run Dir for 2219,93 ms
